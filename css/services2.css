@@ -487,11 +487,10 @@ section.calculator .calc-order button {
 
 
 .help-message {
-	width: 400px;
-	padding: 20px;
-	font-family: Arial, sans-serif;
+	width: 350px;
+    height: 21px;
 	font-size: 10pt;
-	
+	background: var(--color-background);
 	border-radius: 6px;
 	position: absolute;
   }
